@@ -1,6 +1,6 @@
 package Kamuran;
 
-public class OglumBakGit {
+public class OglumBakGit_kamuran {
 
     public static void main(String[] args) {
 
